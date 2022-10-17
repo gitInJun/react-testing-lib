@@ -1,11 +1,13 @@
 // import logo from './logo.svg';
 // import './App.css';
-import Profile from './Profile';
+// import Profile from './Profile';
+import Counter from './Counter';
 
 function App() {
   return (
     <div className="App">
-      <Profile username="dlswns6532" name="황인준" />
+      {/* <Profile username="dlswns6532" name="황인준" /> */}
+      <Counter />
       learn react
     </div>
   );
